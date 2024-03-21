@@ -1,0 +1,10 @@
+Section{
+    width: 100vw;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+    padding:10px;
+    margin: 10px;
+}
